@@ -11,6 +11,18 @@
 This repository contains scripts and supporting information for 
 a set of demonstrations related to the 2022 AM-Bench challenge series.
 
+In particular, the data used in this demonstration comes from the
+2018 AM-Bench challenge documented at https://www.nist.gov/ambench/amb2018-02-description.
+
+The script queries the AM-Bench 2018 repository located at https://ambench.nist.gov/, 
+then processes the returned XML-based results, does some image processing, and
+generates plots of melt pool depths.
+
+Additional datasets and challenge problem documentation are available through the NIST
+Public Data Repository record at https://data.nist.gov/od/id/6D6EC9B3A4147BE2E05324570681EEC91931
+with an associated publication (https://link.springer.com/article/10.1007/s40192-020-00169-1)
+documenting the experiments.
+
 ### README
 
 <!--
