@@ -16,7 +16,11 @@ In particular, the data used in this demonstration comes from the
 
 The script queries the AM-Bench 2018 repository located at https://ambench.nist.gov/, 
 then processes the returned XML-based results, does some image processing, and
-generates plots of melt pool depths.
+generates plots of melt pool depths.  This work was originally done by Miyu Mudalamane 
+(University of Delaware) during a 2021 Summer Undergraduate Research Fellowship at NIST 
+supervised by Chandler Becker and Gretchen Greene (NIST Office of Data and Informatics, ODI).  
+It was later adapted as this notebook by Jordan Raddick (Johns Hopkins University) in 
+consultation with NIST ODI staff.
 
 Additional datasets and challenge problem documentation are available through the NIST
 Public Data Repository record at https://data.nist.gov/od/id/6D6EC9B3A4147BE2E05324570681EEC91931
